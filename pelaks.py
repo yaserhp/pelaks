@@ -72,6 +72,7 @@ def detect_numbers_and_letters(image_path):
     # فراخوانی تابع با تصویر مورد نظر
 detect_numbers_and_letters('C:\\Users\\sh\\Desktop\\pelaks.png')
 
+#ااین کد قابلیت تشخیص پلاک را دارد
 
 
 
